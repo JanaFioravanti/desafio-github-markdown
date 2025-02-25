@@ -7,4 +7,6 @@ Repositório de Desafio Markdown
 
 2. Criada conta alternativa para exercitar as práticas requisitadas
 
-<img src="https://static6.depositphotos.com/1025854/540/v/450/depositphotos_5404711-stock-illustration-mans-arm.jpg" width="300">
+<img src="https://static6.depositphotos.com/1025854/540/v/450/depositphotos_5404711-stock-illustration-mans-arm.jpg" width="500">
+
+    Necessário usar HTML para ajustar a imagem.
