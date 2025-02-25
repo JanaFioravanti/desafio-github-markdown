@@ -9,4 +9,8 @@ Repositório de Desafio Markdown
 
 <img src="https://static6.depositphotos.com/1025854/540/v/450/depositphotos_5404711-stock-illustration-mans-arm.jpg" width="465">
 
-    Necessário usar HTML para ajustar a imagem.
+------
+
+README simples, criado a partir dos conhecimentos adquiridos nas aulas.
+
+    
