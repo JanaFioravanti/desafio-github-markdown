@@ -13,4 +13,6 @@ Repositório de Desafio Markdown
 
 README simples, criado a partir dos conhecimentos adquiridos nas aulas.
 
+É composto de uma lista simples acompanhada de uma imagem usado em html.
+
     
